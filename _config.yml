@@ -272,7 +272,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
+      values:
       layout: single
       author_profile: true
       read_time: true
@@ -283,6 +283,6 @@ defaults:
     - scope:
         path: "_pages"
         type: pages
-      values:
+        values:
         layout: single
         author_profile: true
